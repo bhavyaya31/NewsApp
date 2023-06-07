@@ -1,0 +1,57 @@
+{
+    "status": "ok",
+    "totalResults": 627,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "Apple's Online Store Launches in Vietnam",
+    "description": "After announcing last week that it would be launching its online store in Vietnam on May 18, the store has now gone live, opening up direct sales for Apple in a largely untapped market with significant growth potential.\n\n\n\n\n\nAs in other countries, Apple's Vie…",
+    "url": "https://www.macrumors.com/2023/05/18/apples-online-store-vietnam/",
+    "urlToImage": "https://images.macrumors.com/t/y5vJH-BToKB2TE372a11I22U-bA=/1960x/article-new/2023/05/Apple-Vietnam-online-store.jpg",
+    "publishedAt": "2023-05-18T09:42:09Z",
+    "content": "After announcing last week that it would be launching its online store in Vietnam on May 18, the store has now gone live, opening up direct sales for Apple in a largely untapped market with significa… [+497 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NPR"
+    },
+    "author": "Ayana Archie",
+    "title": "Montana becomes the first state to completely ban TikTok",
+    "description": "Gov. Greg Gianforte banned the app on state government electronic devices last December, and has said he is concerned about people's user data being compromised by the Chinese government.",
+    "url": "https://www.npr.org/2023/05/18/1176805559/montana-tiktok-ban",
+    "urlToImage": "https://media.npr.org/assets/img/2023/05/18/ap23094408384542-1-_wide-345e9149b6fab31b94ee802a4440e44ee03c7c48-s1400-c100.jpg",
+    "publishedAt": "2023-05-18T07:29:04Z",
+    "content": "A view of the TikTok app logo, in Tokyo, Sept. 28, 2020.\r\nKiichiro Sato/AP\r\nMontana has become the first state to ban the popular social media app TikTok.\r\nGov. Greg Gianforte signed Senate Bill 419 … [+1714 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Nathan Proctor",
+    "title": "Companies are radically redefining what it means to 'own' something",
+    "description": "Companies are using sneaky software, subscription fees, and legal tricks to make you endlessly pay for stuff you already bought.But soon after the release of the iPhone 13 in September 2021, Harding noticed a minor change to Apple's software that he thought might shut down his small shop for good.",
+    "url": "https://www.businessinsider.com/companies-software-legal-tricks-subscriptions-customers-money-pay-death-ownership-2023-5",
+    "urlToImage": "https://i.insider.com/6464ecac7224930019f33aac?width=1200&format=jpeg",
+    "publishedAt": "2023-05-18T10:02:07Z",
+    "content": "Modern software allows manufacturers to tether users to them, forever. That means you may endlessly pay for stuff you already boughtTyler Le/Insider\r\nCompanies are taking away your ability to actuall… [+10769 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Architectural Digest"
+    },
+    "author": "Tim Nelson",
+    "title": "New York City May Be Sinking Under the Weight of Its Skyscrapers",
+    "description": "A scientific journal suggests that the city’s 1.68 trillion pounds of buildings are causing the city to descending, with some neighborhoods faster than others",
+    "url": "https://www.architecturaldigest.com/story/new-york-city-may-be-sinking-under-weight-skyscrapers",
+    "urlToImage": "https://media.architecturaldigest.com/photos/64653c7cd5968d5d7acd4530/16:9/w_1280,c_limit/GettyImages-1347979016%20(1).jpg",
+    "publishedAt": "2023-05-18T02:14:32Z",
+    "content": "From the Financial Districts sky-high centers of economic power to the pricey pads that rise above Billionaires row, the great volume of towering buildings is part of what gives New York City its ide… [+2315 chars]"
+    }
+]}
